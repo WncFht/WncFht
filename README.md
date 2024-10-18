@@ -2,21 +2,21 @@
 
 <p align="center">
   <samp>
-<!--     <a href="https://WncFht.cc/">me</a> ∙ -->
+    <a href="https://WncFht.cc/">me</a> ∙
     <a href="https://WncFht.github.io/">blog</a> ∙
     <a href="https://WncFht.github.io/notes/">notes</a> ∙
-<!--     <a href="https://t.me/WncFhtSky">channel</a> ∙
-    <a href="https://t.me/Tony_Crane">telegram</a> -->
+    <a href="https://t.me/WncFhtSky">channel</a> ∙
+    <a href="https://t.me/Tony_Crane">telegram</a>
   </samp>
 </p>
 
 <p align="center">
   <a href="https://github.com/WncFht">
-    <img width="400" align="top" src="https://github.com/WncFht/WncFht/master/metrics.left.svg" />
+    <img width="400" align="top" src="https://github.com/WncFht/WncFht/blob/master/metrics.left.svg" />
   </a>
   &emsp;
   <a href="https://github.com/WncFht">
-    <img width="400" align="top" src="https://github.com/WncFht/WncFht/master/metrics.right.svg" />
+    <img width="400" align="top" src="https://github.com/WncFht/WncFht/blob/master/metrics.right.svg" />
   </a>
 </p>
 
