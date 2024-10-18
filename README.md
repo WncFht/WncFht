@@ -28,4 +28,3 @@ My Projects:
 - [manim_sandbox](https://github.com/manim-kindergarten/manim_sandbox): some utils of manim
 - [manim_document_zh](https://github.com/manim-kindergarten/manim_document_zh): a chinese document of manim
 - [manim_action_renderer](https://github.com/manim-kindergarten/manim_action_renderer): a GitHub action to render manim videos -->
-
