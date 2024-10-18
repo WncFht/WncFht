@@ -20,6 +20,16 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/TonyCrane">
+    <img width="400" align="top" src="https://github.com/TonyCrane/TonyCrane/blob/master/metrics.left.svg" />
+  </a>
+  &emsp;
+  <a href="https://github.com/TonyCrane">
+    <img width="400" align="top" src="https://github.com/TonyCrane/TonyCrane/blob/master/metrics.right.svg" />
+  </a>
+</p>
+
 <!-- 
 My Projects:
 - documentation for [manim](https://github.com/3b1b/manim)
