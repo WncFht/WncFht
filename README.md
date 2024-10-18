@@ -12,21 +12,11 @@
 
 <p align="center">
   <a href="https://github.com/WncFht">
-    <img width="400" align="top" src="https://github.com/WncFht/WncFht/blob/master/metrics.left.svg" />
+    <img width="400" align="top" src="https://github.com/WncFht/WncFht/blob/main/metrics.left.svg" />
   </a>
   &emsp;
   <a href="https://github.com/WncFht">
-    <img width="400" align="top" src="https://github.com/WncFht/WncFht/blob/master/metrics.right.svg" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/TonyCrane">
-    <img width="400" align="top" src="https://github.com/TonyCrane/TonyCrane/blob/master/metrics.left.svg" />
-  </a>
-  &emsp;
-  <a href="https://github.com/TonyCrane">
-    <img width="400" align="top" src="https://github.com/TonyCrane/TonyCrane/blob/master/metrics.right.svg" />
+    <img width="400" align="top" src="https://github.com/WncFht/WncFht/blob/main/metrics.right.svg" />
   </a>
 </p>
 
