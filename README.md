@@ -12,11 +12,11 @@
 
 <p align="center">
   <a href="https://github.com/WncFht">
-    <img width="400" align="top" src="https://github.com/WncFht/WncFht/blob/master/metrics.left.svg" />
+    <img width="400" align="top" src="https://github.com/WncFht/WncFht/master/metrics.left.svg" />
   </a>
   &emsp;
   <a href="https://github.com/WncFht">
-    <img width="400" align="top" src="https://github.com/WncFht/WncFht/blob/master/metrics.right.svg" />
+    <img width="400" align="top" src="https://github.com/WncFht/WncFht/master/metrics.right.svg" />
   </a>
 </p>
 
