@@ -3,8 +3,9 @@
 <p align="center">
   <samp>
     <!-- <a href="https://WncFht.cc/">me</a> ∙ -->
-<!--     <a href="https://WncFht.github.io/">blog</a> ∙ -->
+    <a href="https://WncFht.github.io/">blog</a> ∙
     <a href="https://WncFht.github.io/notes/">notes</a> 
+    <a href="https://space.bilibili.com/496058922/">bilibili</a>
     <!-- <a href="https://t.me/WncFhtSky">channel</a> ∙
     <a href="https://t.me/Tony_Crane">telegram</a> -->
   </samp>
